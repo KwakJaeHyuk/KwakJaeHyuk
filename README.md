@@ -1,8 +1,10 @@
-Hi, I’m KwakJaeHyuk
+Interested in 
 
-interested in Autonomous Driving System
-              Artificial intelligence
-              Computer-Vision
+Autonomous Driving System
+
+Artificial intelligence
+
+Computer-Vision
 
 I’m currently learning Visual-Slam
 
