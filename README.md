@@ -1,7 +1,11 @@
 Hi, I’m KwakJaeHyuk
-I’m interested in Autonomous Driving System, Artificial intelligence, LGPR
+
+interested in Autonomous Driving System
+              Artificial intelligence
+              Computer-Vision
+
 I’m currently learning Visual-Slam
 
-How to reach me 
+How to reach me -> jasonkwak0120@gmail.com
 
 
