@@ -1,13 +1,22 @@
-Interested in 
+JaeHyukKwak
+===========
 
-Autonomous Driving System
+<img src="https://img.shields.io/badge/jasonkwak0120@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://https://studyroom-99.tistory.com/)
 
-Artificial intelligence
-
-Computer-Vision
+👋Hi there!👋
+I'm Interested in 
+>🚙 _Autonomous Driving System_ 🚙  
+🤖 _Artificial intelligence_ 🤖  
+🖥 _Computer-Vision_ 📷  
 
 I’m currently learning Visual-Slam
 
-How to reach me -> jasonkwak0120@gmail.com
+
+🛠 tech stack 🛠
+----------------
+### Tech that I've used at least once!
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-EB001B?style=flat-square&logo=Linux&logoColor=white"/></a> 
+
 
 
