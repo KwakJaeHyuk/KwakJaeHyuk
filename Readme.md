@@ -1,4 +1,4 @@
-JaeHyukKwak
+Kwak Jae Hyuk
 ===========
 
 <img src="https://img.shields.io/badge/jasonkwak0120@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://https://studyroom-99.tistory.com/)
